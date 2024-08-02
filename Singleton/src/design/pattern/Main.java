@@ -3,6 +3,6 @@ package design.pattern;
 public class Main {
 
     public static void main(String[] args) {
-	    System.out.println("hello this is singleton Method");
+	    System.out.println("singleton Design Pattern learning!");
     }
 }
